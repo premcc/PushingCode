@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T11:45:40 IST" name="Default suite" finished-at="2023-10-25T11:45:43 IST" duration-ms="2871">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T11:45:40 IST" name="Default test" finished-at="2023-10-25T11:45:43 IST" duration-ms="2871">
+      <class name="Http_Methods_Practise.Two_Objects_In_Json_Post">
+        <test-method signature="p1()[pri:0, instance:Http_Methods_Practise.Two_Objects_In_Json_Post@550dbc7a]" started-at="2023-10-25T11:45:40 IST" name="p1" finished-at="2023-10-25T11:45:43 IST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p1 -->
+      </class> <!-- Http_Methods_Practise.Two_Objects_In_Json_Post -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
